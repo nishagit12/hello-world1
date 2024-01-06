@@ -1,2 +1,2 @@
-This is a test file to check the git 
+This is a test file to check the git .updated as part of feature1 branch
 .
